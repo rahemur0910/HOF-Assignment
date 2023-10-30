@@ -28,3 +28,6 @@ const priceINR = Object.fromEntries(  // list of key value pair into an object
 );
 
 console.log("IN INR:",priceINR);
+console.log(typeof(priceINR));
+
+// Reference --> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
